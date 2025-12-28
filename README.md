@@ -33,13 +33,13 @@ A browser extension that provides an intuitive and efficient way to manage bookm
 
 ## Screenshots
 
-![Main Interface](./Bookmark-Manager/screenshots/main-interface.jpeg)  
+![Main Interface](./screenshots/main-interface.jpeg)  
 Main interface showing folders, search, and bookmarks.
 
-![Folder Organization](./Bookmark-Manager/screenshots/folder-organization.jpeg)  
+![Folder Organization](./screenshots/folder-organization.jpeg)  
 Organize bookmarks into folders with visible counts.
 
-![Export Feature](./Bookmark-Manager/screenshots/export-feature.jpeg)  
+![Export Feature](./screenshots/export-feature.jpeg)  
 Export bookmarks as an HTML file.
 
 ## Future Improvements
